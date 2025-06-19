@@ -9,9 +9,9 @@
 6. Criar nosso primeiro Fork; []
 
 ### Realizando alterações de teste para o nosso repositório
-. git status - verificar se há alterações na pasta
-. git branch <nome da branch> - criar um ramo (branch) do projeto
-. git checkout <nome da branch> - acessando a branch criada para fazer as alterações
-. git push origin main 
-. git commit -m "texto" - Comita as informações e adiciona algum texto explicativo
+. git status - verificar se há alterações na pasta <br>
+. git branch <nome da branch> - criar um ramo (branch) do projeto <br>
+. git checkout <nome da branch> - acessando a branch criada para fazer as alterações <br>
+. git push origin main <br>
+. git commit -m "texto" - Comita as informações e adiciona algum texto explicativo <br>
 . git add . - prepara os arquivos para serem enviados
