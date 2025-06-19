@@ -10,3 +10,5 @@
 
 ### Realizando alterações de teste para o nosso repositório
 git status - verificar se há alterações na pasta
+git branch <nome da branch> - criar um ramo (branch) do projeto
+git checkout <nome da branch> - acessando a branch criada para fazer as alterações
